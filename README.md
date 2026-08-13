@@ -1,11 +1,7 @@
-# Data
+🚗 UK Road Accidents Analysis
 
-The original road accident CSV used for this project is approximately 63 MB and is not included in this GitHub repository so the project remains easy to upload through GitHub's web interface.
+📊 Data Analytics Portfolio Project
 
-The analysis was performed on the original dataset and the SQL script is included in:
+An end-to-end data analytics project analyzing 307,973 UK road accident records from 2021–2022 to identify patterns in accident severity, casualties, time, road type, junction control, vehicle type, weather, lighting, locality, and geographic concentration.
 
-`../sql/road_accidents_analysis.sql`
-
-The project documentation and Power BI outputs preserve the resulting analysis.
-
-For a reproducible local analysis, place the source CSV in this folder and import it into MySQL as `road_accident`.
+The project combines SQL analysis with Power BI visualization and dashboarding to transform road accident data into actionable road-safety insights.
